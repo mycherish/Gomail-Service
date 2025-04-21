@@ -1,0 +1,7 @@
+smtp:
+  host: "smtp.126.com"  # 这里是你的SMTP服务器地址
+  port: 465 # SSL端口
+  username: "xxx@126.com"
+  password: "YFXXXXXX"  # 这里是你的SMTP授权码（不是邮箱密码！）
+server:
+  port: 8081  # HTTP服务端口
